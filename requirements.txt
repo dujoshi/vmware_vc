@@ -1,0 +1,11 @@
+retrying
+future
+cryptography
+pyVmomi >= 6.5
+vapi_runtime
+vapi_common_client
+vapi_client_bindings
+termcolor
+colorama
+prettytable
+joblib
